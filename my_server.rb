@@ -1,4 +1,4 @@
-class Application
+class MyServer
 
   def call(env)
     resp = Rack::Response.new
